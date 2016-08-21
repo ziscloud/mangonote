@@ -1,4 +1,4 @@
-package com.caiyunworks.entity;
+package com.caiyunworks.mangonote.entity;
 
 /**
  * Created by Tony Wang on 8/20/16.

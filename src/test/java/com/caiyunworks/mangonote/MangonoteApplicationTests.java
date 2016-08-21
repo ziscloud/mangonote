@@ -1,4 +1,4 @@
-package com.caiyunworks;
+package com.caiyunworks.mangonote;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

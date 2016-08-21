@@ -1,4 +1,4 @@
-package com.caiyunworks.entity;
+package com.caiyunworks.mangonote.entity;
 
 
 import org.springframework.data.annotation.Id;

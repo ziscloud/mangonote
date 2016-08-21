@@ -1,4 +1,4 @@
-package com.caiyunworks;
+package com.caiyunworks.mangonote;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

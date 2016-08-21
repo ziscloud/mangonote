@@ -1,8 +1,8 @@
-package com.caiyunworks.endpoint;
+package com.caiyunworks.mangonote.endpoint;
 
-import com.caiyunworks.entity.Employee;
-import com.caiyunworks.entity.Skill;
-import com.caiyunworks.repo.EmployeeRepository;
+import com.caiyunworks.mangonote.entity.Employee;
+import com.caiyunworks.mangonote.entity.Skill;
+import com.caiyunworks.mangonote.repo.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

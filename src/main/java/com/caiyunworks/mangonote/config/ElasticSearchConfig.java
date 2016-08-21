@@ -1,4 +1,4 @@
-package com.caiyunworks.config;
+package com.caiyunworks.mangonote.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -12,7 +12,7 @@ import static org.elasticsearch.node.NodeBuilder.nodeBuilder;
  * Created by Tony Wang on 8/20/16.
  */
 @Configuration
-@EnableElasticsearchRepositories(basePackages = {"com.caiyunworks.repo"})
+@EnableElasticsearchRepositories(basePackages = {"com.caiyunworks.mangonote.repo"})
 public class ElasticSearchConfig {
 
     @Bean
