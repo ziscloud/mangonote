@@ -26,14 +26,12 @@ public class BookEndpoint {
     public Response add() {
         Book book = new Book();
         book.setBookId(1);
-        ;
         book.setIsbnNumber(2133443554);
         book.setName("Kane And Abel by XYZ");
         bookRepo.save(book);
 
         Book anotherBook = new Book();
         anotherBook.setBookId(2);
-        ;
         anotherBook.setIsbnNumber(2133443554);
         anotherBook.setName("The Prodigal Daughter");
         bookRepo.save(anotherBook);
